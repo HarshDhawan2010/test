@@ -1,1 +1,5 @@
 Hello!
+<<<<<<< HEAD
+=======
+How are you?
+>>>>>>> parent of 460c50a (reply)
